@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ProcesosModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="PROCESS">
+    <Key>
+      <PropertyRef Name="ID" />
+    </Key>
+    <Property Name="ID" Type="int" Nullable="false" />
+    <Property Name="Nombre" Type="varchar" MaxLength="255" />
+    <Property Name="CPU" Type="int" />
+    <Property Name="TiLLegada" Type="int" />
+    <Property Name="Prioridad" Type="int" />
+  </EntityType>
+  <EntityContainer Name="ProcesosModelStoreContainer">
+    <EntitySet Name="PROCESS" EntityType="Self.PROCESS" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

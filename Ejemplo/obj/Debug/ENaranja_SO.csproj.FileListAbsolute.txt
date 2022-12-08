@@ -1,0 +1,17 @@
+C:\Users\Orodriguez\Desktop\C#\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe.config
+C:\Users\Orodriguez\Desktop\C#\Ejemplo\Ejemplo\bin\Debug\Ejemplo.exe
+C:\Users\Orodriguez\Desktop\C#\Ejemplo\Ejemplo\bin\Debug\Ejemplo.pdb
+C:\Users\Orodriguez\Desktop\C#\Ejemplo\Ejemplo\bin\Debug\EntityFramework.dll
+C:\Users\Orodriguez\Desktop\C#\Ejemplo\Ejemplo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Orodriguez\Desktop\C#\Ejemplo\Ejemplo\bin\Debug\EntityFramework.xml
+C:\Users\Orodriguez\Desktop\C#\Ejemplo\Ejemplo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Orodriguez\Desktop\C#\Ejemplo\Ejemplo\obj\Debug\Ejemplo.MenuPrincipal.resources
+C:\Users\Orodriguez\Desktop\C#\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Ambos.resources
+C:\Users\Orodriguez\Desktop\C#\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Paginacion.resources
+C:\Users\Orodriguez\Desktop\C#\Ejemplo\Ejemplo\obj\Debug\Ejemplo.Properties.Resources.resources
+C:\Users\Orodriguez\Desktop\C#\Ejemplo\Ejemplo\obj\Debug\ENaranja_SO.csproj.GenerateResource.cache
+C:\Users\Orodriguez\Desktop\C#\Ejemplo\Ejemplo\obj\Debug\ENaranja_SO.csproj.CoreCompileInputs.cache
+C:\Users\Orodriguez\Desktop\C#\Ejemplo\Ejemplo\obj\Debug\ENaranja_SO.csproj.CopyComplete
+C:\Users\Orodriguez\Desktop\C#\Ejemplo\Ejemplo\obj\Debug\Ejemplo.exe
+C:\Users\Orodriguez\Desktop\C#\Ejemplo\Ejemplo\obj\Debug\Ejemplo.pdb
+C:\Users\Orodriguez\Desktop\C#\Ejemplo\Ejemplo\obj\Debug\ENaranja_SO.csproj.AssemblyReference.cache
